@@ -71,12 +71,3 @@ The notebook performs the following steps:
    - Heatmaps & correlation analysis  
 4. **Key Insights & Summary**  
    - Major observations and trends :contentReference[oaicite:5]{index=5}
-
----
-
-## 🚀 How to Run
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/SagarDeshmukh24/GFG-21-Projects-ML-DL-GenAI-.git
-
